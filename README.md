@@ -16,6 +16,8 @@ Bu proje, öğrenme amaçlı bir örnek uygulama olarak tasarlanmıştır. Kod a
 - Css3
 - Javascript
 - Ekran Goruntusu ve Calisir Hali
-  ![](/img/Ekran-goruntusu.jpg)
+
+
+![](/img/Ekran-goruntusu.jpg)
 
 ![](/img/Calisir-hali.gif)
