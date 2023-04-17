@@ -15,7 +15,9 @@ Bu proje, öğrenme amaçlı bir örnek uygulama olarak tasarlanmıştır. Kod a
 - Html5
 - Css3
 - Javascript
-- Ekran Goruntusu ve Calisir Hali
+
+
+## Ekran Goruntusu ve Calisir Hali
 
 
 ![](/img/Ekran-goruntusu.jpg)
